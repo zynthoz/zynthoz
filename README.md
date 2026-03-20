@@ -1,77 +1,109 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4f46e5;">Aaron Gabriel Lim</span></h1>
-<h3 align="center">💻 Information Technology Student | University of Santo Tomas</h3>
-<h4 align="center">An aspiring full-stack developer passionate about clean design, efficient systems, and continuous growth.</h4>
+<div align="center">
+
+```
+ █████╗  █████╗ ██████╗  ██████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔═══██╗████╗  ██║
+███████║███████║██████╔╝██║   ██║██╔██╗ ██║
+██╔══██║██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+██║  ██║██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+### Building real systems, not just studying them.
+
+`IT Student` · `Founder` · `Freelancer` · `🇵🇭 Manila`
+
+</div>
 
 ---
 
-### 🌟 About Me  
-🎓 Currently studying **Information Technology** at the **University of Santo Tomas**  
-💡 Interested in **frontend and full-stack web development**  
-🚀 Always improving my **coding efficiency** and **design sense**  
-🏃‍♂️ Outside of tech, I enjoy **running**, **gaming**, and exploring **new technologies**
+### whoami
+
+- 🎓 Information Technology @ **University of Santo Tomas**, Manila
+- 🚀 Founder of **LaundryLink** — hardware-to-cloud SaaS for Philippine laundromats
+- 💼 Freelance web developer on Fiverr, building client projects end-to-end
+- ⚡ I work across the full stack — from circuit boards to cloud databases
 
 ---
 
-### 🧠 Languages & Tools  
+### 🔧 What I'm Building
 
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-</p>
+**[LaundryLink](https://github.com/zynthoz)** — my flagship project.
+
+A commercial laundry management system built from scratch. ESP32 pulse detection hardware interfaces with an LG commercial washing machine, feeds into a Raspberry Pi local gateway, and syncs to a Next.js + Supabase cloud dashboard. One-time installation with ongoing maintenance and support. Built for real laundromats in the Philippines — not a school project.
+
+```
+ESP32 (pulse detection)  →  Raspberry Pi (gateway)  →  Supabase (cloud)
+         ↑                                                      ↓
+    LG Washer / Dryer                              Next.js Dashboard (owner/operator)
+```
 
 ---
 
-### 💻 Featured Projects  
-📘 **[Reservation System (HS Capstone Project)](https://github.com/zynthoz/ReservationSystem-HSCapstoneProject)**  
-> Developed a PHP-based facility reservation system with MySQL integration. Implemented user authentication, calendar scheduling, and CRUD operations for managing facilities. Demonstrated growth in backend logic and database handling.
+### 🛠 Stack
 
-⚡ **[Clash App](https://github.com/zynthoz/Clash-App)**  
-> Built a modern full-stack web application using JavaScript, Node.js, and Tailwind CSS. Designed responsive pages and implemented dynamic API functionality, focusing on modular code, clean design, and performance.
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178c6)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572b6)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=3c873a)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777bb4)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776ab)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479a1)
+
+**Hardware / Embedded**
+
+![ESP32](https://img.shields.io/badge/ESP32-1a1a1a?style=flat-square&logo=espressif&logoColor=e7352c)
+![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=flat-square&logo=arduino&logoColor=00979d)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a1a?style=flat-square&logo=raspberrypi&logoColor=c51a4a)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=f05032)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1a1a1a?style=flat-square&logo=easyeda&logoColor=5588ff)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=007acc)
 
 ---
 
-### 📫 Connect With Me  
-<p align="center">
-  <a href="mailto:aar0n6abriel10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail" alt="Email Badge"/></a>
-  <a href="https://github.com/zynthoz"><img src="https://img.shields.io/badge/GitHub-zynthoz-black?style=flat-square&logo=github" alt="GitHub Badge"/></a>
-</p>
+### 📌 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[LaundryLink](https://github.com/zynthoz)** | IoT laundry management system — one-time install, ongoing support | ESP32 · RPi · Next.js · Supabase |
+| **[Clash App](https://github.com/zynthoz/clash-app)** | Full-stack web app — clean UI, modular architecture, live API integration | Node.js · JS · Tailwind |
+| **[Reservation System](https://github.com/zynthoz/ReservationSystem-HSCapstoneProject)** | Facility booking system with auth, calendar scheduling, full CRUD | PHP · MySQL |
 
 ---
 
-### ⚡ Quick Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zynthoz&show_icons=true&theme=transparent&hide_border=true" alt="Aaron's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynthoz&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
+### 📊 Stats
+
+<div align="center">
+
+![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zynthoz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zynthoz&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888)
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ *“Competence is built through consistency and curiosity.”* ✨  
-</p>
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:aar0n6abriel10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/zynthoz)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1a1a1a?style=flat-square&logo=fiverr&logoColor=1dbf73)](https://fiverr.com)
+
+---
+
+<div align="center">
+
+*"Ship it, learn from it, build it better."*
+
+</div>
